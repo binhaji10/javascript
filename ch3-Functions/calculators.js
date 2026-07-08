@@ -14,12 +14,12 @@
 // console.log result2
 
 
-// function add(num1 ,num2){
-// return num1 + num2
+function add(num1 ,num2){
+return num1 + num2
 
-// }
-// var result1 = add(5 , 8)
-// console.log(result1)
+}
+var result1 = add(5 , 8)
+console.log(result1)
 
 function subtraction(num1,num2){
     return num1-num2
@@ -27,6 +27,7 @@ function subtraction(num1,num2){
  var result3 = subtraction(9,7)
 
 console.log(result3)
+
 
 
 
