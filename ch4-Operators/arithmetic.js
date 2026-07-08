@@ -9,4 +9,4 @@ console.log(numOfGirls); // decrement
 // console.log(numOfBoys - numOfGirls); // Subtraction
 // console.log(numOfBoys * numOfGirls); // Multiplication
 // console.log(numOfBoys / numOfGirls); // Division
-// console.log(53 % 5); // Modulus
+console.log(53 % 5); // Modulus
